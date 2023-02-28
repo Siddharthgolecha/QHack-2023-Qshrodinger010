@@ -4,7 +4,7 @@
 
 ARKS (pronounced "ARCS" ) is a new way of representing Quantum states that allows us to visualize different states for more than one qudits, and also visualize quantum entanglement. The ARKS representation is a graph-based representation.
 
-For a given statevector $|\psi\rangle$, the graph is contrcuted with the following rules - 
+For a given statevector $|\psi\rangle$, the graph is constructed with the following rules - 
 1. In the case of a single qudit state, the states are written in a column, with the corresponding probability amplitude below each state.
 2. $d*number\\_of\\_qudits$ nodes are created, with each $Z$-basis state written in the same row.
 3. Each qudit is in a column.
