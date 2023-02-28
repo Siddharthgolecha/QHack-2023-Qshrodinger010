@@ -1,5 +1,9 @@
 # QHack-2023-Qschrodinger010 Project Submission
 
+Qschrodinger010 project submission contains two subproject:
+1. The ARKS Representation
+2. Polar Measurement Quantum Art
+
 ## The ARKS Representation
 
 ARKS (pronounced "ARCS" ) is a new way of representing Quantum states that allows us to visualize different states for more than one qudits, and also visualize quantum entanglement. The ARKS representation is a graph-based representation.
@@ -24,3 +28,11 @@ Let us look at three examples -
 1. While the Bloch sphere is an extremely useful visual tool to represent single-qubit states, it is diffuclt to generalise it to multiqudit states. ARKS is a representation that displays the relationship between multiple qudits and states. 
 2. In addition, it can be used as a measure of entanglment - with the presence of cycles in the graphs being an indicator of entanglement. A formalism to use the weights of the edges to quantise this can also be developed.
 3. The program can be extended to support evolution of the state by application of unitaries, which would modify the edges and the weights. Thus, this representation would help visualise the changes a quantum system undergoes through the course of an algorithm.
+
+## Polar Measurement Quantum Art
+
+Polar projection is one of the underrated projections used today but we made Quantum Art using it.
+![c1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/classical_petal.png)
+![q1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/quantum_petal.png)
+![c2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/classical_heart.png)
+![q2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/quantum_heart.png)
