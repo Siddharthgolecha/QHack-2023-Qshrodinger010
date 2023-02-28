@@ -32,7 +32,11 @@ Let us look at three examples -
 ## Polar Measurement Quantum Art
 
 Polar projection is one of the underrated projections used today but we made Quantum Art using it.
+### r = cos(4*theta) or Petal Design
 ![c1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Classical_petal.png)
+### Quantum Petal Design
 ![q1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Quantum_petal.png)
+### r = 1-sin(theta) or Heart Design
 ![c2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Classical_heart.png)
+### Quantum Heart Design
 ![q2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Quantum_heart.png)
