@@ -10,12 +10,15 @@ For a given statevector $|\psi\rangle$, the graph is constructed with the follow
 3. Each qudit is in a column.
 4. Weighted edges between states represent a state, with the weights given by the probability amplitude.
 
-Let us look at two examples - 
+Let us look at three examples - 
+### 1 Qubit state
+![d1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/d2_q1_arks_repr.svg)
+
 ### 3 Qubit state
-![d2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/d2_arks_repr.png)
+![d2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/d2_arks_repr.svg)
 
 ### 2 Qutrit state
-![d3](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/d3_arks_repr.png)
+![d3](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/d3_arks_repr.svg)
 
 ## Potential applications
 1. While the Bloch sphere is an extremely useful visual tool to represent single-qubit states, it is diffuclt to generalise it to multiqudit states. ARKS is a representation that displays the relationship between multiple qudits and states. 
