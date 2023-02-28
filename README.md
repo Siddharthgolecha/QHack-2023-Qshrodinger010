@@ -32,7 +32,7 @@ Let us look at three examples -
 ## Polar Measurement Quantum Art
 
 Polar projection is one of the underrated projections used today but we made Quantum Art using it.
-![c1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/classical_petal.png)
-![q1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/quantum_petal.png)
-![c2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/classical_heart.png)
-![q2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/quantum_heart.png)
+![c1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Classical_petal.png)
+![q1](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Quantum_petal.png)
+![c2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Classical_heart.png)
+![q2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Quantum_heart.png)
