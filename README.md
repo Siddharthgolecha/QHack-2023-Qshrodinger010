@@ -40,3 +40,12 @@ Polar projection is one of the underrated projections used today but we made Qua
 ![c2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Classical_heart.png)
 ### Quantum Heart Design
 ![q2](https://github.com/Siddharthgolecha/QHack-2023-Qshrodinger010/blob/main/media/Quantum_heart.png)
+
+## Team Members
+[Siddharth Golecha](https://github.com/Siddharthgolecha)
+<br>
+[Ritu Thombre](https://github.com/ritu-thombre99)
+<br>
+[Ayushi Dubal](https://github.com/ayushidubal)
+<br>
+[Khadija Challaouy](https://github.com/Qcatty)
